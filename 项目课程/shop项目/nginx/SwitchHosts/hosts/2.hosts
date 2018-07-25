@@ -1,0 +1,5 @@
+#@SwitchHosts! {"url": null, "icon_idx": 0, "title": "testnginx"}
+# testnginx
+
+192.168.8.11  aaa.hc.com
+192.168.8.11  bbb.hc.com
